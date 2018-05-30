@@ -1,17 +1,13 @@
-/*!
- * Start Bootstrap - Agency v3.3.7+1 (http://startbootstrap.com/template-overviews/agency)
- * Copyright 2013-2016 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
- */
+
 body {
   overflow-x: hidden;
   font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .text-muted {
-  color: #777777;
+  color: #bf0a30;
 }
 .text-primary {
-  color: #fed136;
+  color: #bf0a30;
 }
 p {
   font-size: 14px;
@@ -28,7 +24,7 @@ a.active {
   outline: none;
 }
 a {
-  color: #fed136;
+  color:#bf0a30;
 }
 a:hover,
 a:focus,
@@ -57,8 +53,8 @@ h6 {
 }
 .btn-primary {
   color: white;
-  background-color: #fed136;
-  border-color: #fed136;
+  background-color: #bf0a30;
+  border-color: #bf0a30;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
@@ -92,17 +88,17 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-  background-color: #fed136;
-  border-color: #fed136;
+  background-color: #bf0a30;
+  border-color: #bf0a30;
 }
 .btn-primary .badge {
-  color: #fed136;
+  color: #bf0a30;
   background-color: white;
 }
 .btn-xl {
   color: white;
-  background-color: #fed136;
-  border-color: #fed136;
+  background-color: #bf0a30;
+  border-color: #bf0a30;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
@@ -139,20 +135,22 @@ fieldset[disabled] .btn-xl:active,
 .btn-xl.disabled.active,
 .btn-xl[disabled].active,
 fieldset[disabled] .btn-xl.active {
-  background-color: #fed136;
-  border-color: #fed136;
+  background-color: #bf0a30;
+  border-color: #bf0a30;
 }
 .btn-xl .badge {
-  color: #fed136;
+  color: #bf0a30;
   background-color: white;
 }
+
+
 .navbar-custom {
   background-color: #222222;
   border-color: transparent;
 }
 .navbar-custom .navbar-brand {
-  color: #fed136;
-  font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
+  color: #bf0a30;
+  font-family: 'Black Ops One', cursive;
 }
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus,
@@ -164,8 +162,8 @@ fieldset[disabled] .btn-xl.active {
   border-color: rgba(255, 255, 255, 0.02);
 }
 .navbar-custom .navbar-toggle {
-  background-color: #fed136;
-  border-color: #fed136;
+  background-color: #bf0a30;
+  border-color: #bf0a30;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   color: white;
@@ -173,7 +171,7 @@ fieldset[disabled] .btn-xl.active {
 }
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus {
-  background-color: #fed136;
+  background-color: #bf0a30;
 }
 .navbar-custom .nav li a {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -184,13 +182,13 @@ fieldset[disabled] .btn-xl.active {
 }
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #fed136;
+  color: #bf0a30;
   outline: none;
 }
 .navbar-custom .navbar-nav > .active > a {
   border-radius: 0;
   color: white;
-  background-color: #fed136;
+  background-color: #bf0a30;
 }
 .navbar-custom .navbar-nav > .active > a:hover,
 .navbar-custom .navbar-nav > .active > a:focus {
@@ -421,7 +419,7 @@ section h3.section-subheading {
   height: 80px;
   position: absolute;
   z-index: 100;
-  background-color: #fed136;
+  background-color: #bf0a30;
   color: white;
   border-radius: 100%;
   border: 7px solid #f1f1f1;
@@ -576,7 +574,7 @@ section#contact .form-group textarea.form-control {
   height: 236px;
 }
 section#contact .form-control:focus {
-  border-color: #fed136;
+  border-color: #bf0a30;
   box-shadow: none;
 }
 section#contact ::-webkit-input-placeholder {
@@ -645,7 +643,7 @@ ul.social-buttons li a {
 ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
-  background-color: #fed136;
+  background-color: #bf0a30;
 }
 .btn:focus,
 .btn:active,
@@ -729,11 +727,11 @@ ul.social-buttons li a:active {
 }
 ::-moz-selection {
   text-shadow: none;
-  background: #fed136;
+  background: #bf0a30;
 }
 ::selection {
   text-shadow: none;
-  background: #fed136;
+  background: #bf0a30;
 }
 img::selection {
   background: transparent;
@@ -742,5 +740,5 @@ img::-moz-selection {
   background: transparent;
 }
 body {
-  webkit-tap-highlight-color: #fed136;
+  webkit-tap-highlight-color: #bf0a30;
 }
